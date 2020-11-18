@@ -1,0 +1,6 @@
+name = "pobparser"
+type = "webpack"
+account_id = "2a4811d071c54ef17635bbb5db2d11bd"
+workers_dev = true
+route = ""
+zone_id = ""
