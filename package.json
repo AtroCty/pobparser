@@ -14,9 +14,8 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
+    "@types/google-apps-script": "^1.0.17",
     "cloudflare-worker-rest-api": "^1.0.0",
-    "pako": "^1.0.11",
-    "xmldom": "^0.4.0",
-    "xpath": "0.0.32"
+    "pako": "^1.0.11"
   }
 }

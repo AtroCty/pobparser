@@ -1,0 +1,20 @@
+{
+    "compilerOptions":
+    {
+        "target": "es6",
+        "module": "commonjs",
+        "declaration": true,
+        "noImplicitAny": false,
+        "moduleResolution": "node",
+        "removeComments": true,
+        "sourceMap": true,
+        "outDir": "dist/"
+    },
+    "include": [
+        "ImportJSON.gs",
+        "FetchData.gs"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
