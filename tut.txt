@@ -1,0 +1,191 @@
+Important items/links:
+Lvl 1-24: g-g-g
+Lvl 25+ : g-g-g-g/r
+Iron Rings (Oder andere Phys dmg)
+--- Act 1 ---
+RESISTANCE FOCUS: Cold
+--SKILLS--
+Caustic Arrow - Pierce - Onslaught
+Burning Arrow - Mirage Archer (- Added Cold)
+Puncture - Mirage Archer
+Dash --> Smoke mine/Blink arrow
+
+Lvl 12: Swap:
+Caustic Arrow - Pierce - Onslaught
+-->
+Rain of Arrows - Added Cold - Onslaught
+--REGION ORDER--
+- Hillock
+- QUEST: Tarkleight --> Caustic Arrow (ganz rechts)
+- Tarkleight --> Search g-g-g
+--> Coast
+-> WP
+--> Mud Flats
+- Get Glyphs
+--> Submerged Passage
+-> WP --> Coast
+--> Tidal Island
+- Get Medicine
+--> TP
+- QUEST: Nessa --> Quicksilver (ganz rechts) - Onslaught (Pos. 2)
+- BUY: Bestel -> Mirage Archer + War Banner
+- QUEST: Tarkleight --> Puncture (Pos. 2) - Dash
+- Tarkleight --> Search g-g-g
+-> WP --> Submerged Passage
+- Portal bei Flooded Depths (nicht reingehen!)
+--> The Ledge
+- Clear to lvl ~8
+--> Climb
+--> Lower Prison
+-> WP --> Home
+--> Portal Flooded Depths
+- Kill Dweller
+--> TP
+- QUEST: Nessa --> Added Cold (Pos. 2)
+- BUY: Tarkleight --> Iron Rings (Falls nicht gefunden)
+- BUY: Bestel -> Decoy Totem
+- Tarkleight --> Search g-g-g
+-> WP --> Lower Prison
+- Essences
+- TRIAL
+--> Upper Prison
+- Clear to lvl ~10
+- Brutus
+--> TP
+- QUEST: Tarkleight --> Smoke Mine (Pos. 3)
+-> WP --> Prisoners Gate
+--> The Ship Graveyard
+-> WP
+--> The Ship Graveyard Cave
+- Allflame
+--> TP
+--> The Ship Graveyard
+- Kill Fargraves
+--> Cavern of Wrath
+-> WP --> Watch
+- QUEST: Nessa --> Rain of Arrows (Pos. 2)
+- QUEST: Bestel
+- Tarkleight --> Search g-g-g
+-> WP --> Cavern of Wrath
+--> Cavern of Anger
+- Kill Merveil
+--> Act 2
+
+--- Act 2 ---
+RESISTANCE FOCUS: Lightning
+--REGION ORDER--
+--> Forest Encampment
+--> Old Fields
+- Cave bei Bedarf an Items
+--> The Crossroads
+-> WP
+--> Chamber of Sins 1
+--> Chamber of Sins 2
+- TRIAL
+- Clear to lvl ~15
+- Helena
+- Baleful Gem
+--> TP
+- QUEST: Yeena
+- QUEST: Greust --> Blood Rage (unten links)
+- BUY: Yeena -> Herald nach slot (Ice>Thunder>Ash)
+-> WP --> The Crossroads
+--> Broken Bridge
+- Kill Kraityn
+--> TP
+--> The Riverways
+- Clear to lvl ~16
+--> Wester Forest
+-> WP
+--> Weaver's Chamber
+- Kill Weaver
+- Get Spike
+--> TP
+- QUEST: Silk --> Faster Attacks (Pos. 2)
+--> Riverways
+--> Wetlands
+-> Kill Oak
+-> WP --> Western Forest
+-> Help Alira
+-> Kill Blackguards & Open Seal
+--> TP
+--> Lioneyes Watch
+-> QUEST: Bestel
+-> WP --> The Crossroads
+--> Fellshrine Ruins
+--> Crypt 1
+- TRIAL
+--> TP
+--> Wetlands
+--> Vaal Ruins
+--> Northern Forest
+--> Caverns
+-> WP
+--> Ancient Pyramid
+- Kill Construct
+--> Act 3
+
+--- Act 3 ---
+RESISTANCE FOCUS: All
+- Rescue
+--> Camp
+--> Slums
+--> Crematorium
+- TRIAL
+- Kill Piety
+--> TP
+- QUEST: Clarissa
+- CRAFT: Add Fire dmg auf bogen/jewel wenn möglich
+--> Slums
+--> Sewers
+- 3 Busts
+- WP
+--> Marketplace
+- WP
+--> Catacombs
+- TRIAL
+--> TP
+-> QUEST: Hargan
+-> Buy Leather Belt --> Essencecraft (Anger)
+--> Marketplace
+--> Battlefront
+-> WP
+- Spool
+--> Docks
+- Sulphite
+- Clear to lvl ~25
+--> TP
+- BUY: Anger OR Wrath
+--> Battlefront
+--> The Solaris Temple 1
+-> WP
+--> The Solaris Temple 2
+-> WP / Diala --> Camp
+- CRAFT: Resistances (max cold/fire 1st)
+--> Sewers
+- Blockade
+--> Ebony Barracks
+- Kill Gravicius
+--> Lunaris Temple 1
+--> Lunaris Temple 2
+(Tipp: Treppe rauf = richtiger Weg)
+- Kill Piety
+--> TP
+-> QUEST: Clarissa
+-> QUEST: Grigor
+-> QUEST: Maramoa --> Sourge Arrow (Pos 1)
+--> Ebony Barracks
+--> Imperial Gardens
+- WP
+- TRIAL
+--> TP
+--> Labyrinth
+----> Tailwind
+-> (BUY: Gems)
+--> Imperial Gardens
+--> Sceptre of God
+- Kill Dominus
+--> Act 4
+
+--- Act 4 ---
+RESISTANCE FOCUS: Res cap
